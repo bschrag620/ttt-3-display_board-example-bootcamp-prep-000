@@ -1,6 +1,6 @@
 # Define a method display_board that prints a 3x3 Tic Tac Toe Board
-put "   |   |   "
-put "-----------"
-put "   |   |   "
-put "-----------"
-put "   |   |   "
+puts "   |   |   "
+puts "-----------"
+puts "   |   |   "
+puts "-----------"
+puts "   |   |   "
